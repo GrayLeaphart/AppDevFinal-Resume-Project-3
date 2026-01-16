@@ -2,9 +2,7 @@
 
 Grayson Leaphart – Application Development 1,2 – Newberry College
 
-# Overview
-
-(All code for this Project is in the master branch of this Github Repository)
+# Overview (All code for this Project is in the master branch of this Github Repository)
 
 Emp-mg is a web-based employee management application built with Django. It provides a centralized system for managing employee data and tasks within an organization. The application emphasizes simplicity and ease of use, allowing users to create accounts, log employees, assign tasks, and update information efficiently.
 
